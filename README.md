@@ -32,7 +32,7 @@ Atualmente estudando:
 
 Você também pode usar badges:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white)](Kauanmatos512368@gmial.com)
 
 ---
 
