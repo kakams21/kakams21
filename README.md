@@ -4,6 +4,5 @@ Estudante de Engenharia de Software | Estágio em TI
 JavaScript | Lógica de Programação | Git & GitHub
 Em busca de oportunidade de estágio em desenvolvimento
 
-Idiomas
-Português: Nativo
-Inglês: Intermediário
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
