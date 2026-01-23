@@ -49,20 +49,3 @@ Você também pode usar badges:
 - Projeto B — breve descrição.
 
 Dica: destaque 2–4 projetos com link e uma linha descrevendo a tecnologia usada e o que o projeto resolve.
-
----
-
-## Como personalizar rápido
-1. Substitua os links de contato (LinkedIn, email, portfolio).
-2. Atualize a lista de habilidades com tecnologias que domina.
-3. Para mostrar projetos, adicione uma lista com links para seus repositórios.
-4. Se quiser um estilo diferente, posso: trocar o tema dos cards, adicionar GIF/Ilustração, ou criar uma seção “Conquistas” com certificados.
-
----
-
-Se quiser, eu:
-- adapto o texto para um tom mais formal ou mais jovem;
-- adiciono cards extras (GitHub Streaks, Wakatime, ou um GIF);
-- monto descrições para 3 projetos e PRs/commits para exibir.
-
-Diga qual estilo prefere (minimal, profissional, criativo) e eu ajusto.
