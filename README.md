@@ -46,7 +46,7 @@ Atualmente foco em construir uma base sólida em programação, versionamento e 
 
 ## Contato
 📩 Email: Kauanmatos512368@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/SEU-LINK-AQUI
+💼 LinkedIn: https://www.linkedin.com/in/kauan-matos-65b50728b/
 
 ---
 
