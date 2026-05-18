@@ -1,51 +1,63 @@
-# Olá! Eu sou o Kauan Matos da Silva 👋
+# Olá! Eu sou Kauan Matos da Silva 👋
 
-Estudante de Engenharia de Software | Estágio em TI  
-JavaScript | Lógica de Programação | Git & GitHub
-
-Em busca de oportunidade de estágio em desenvolvimento
+💻 Estudante de Engenharia de Software  
+🚀 Buscando minha primeira oportunidade de estágio em TI  
+📍 Carapicuíba, São Paulo - Brasil  
 
 ---
 
 ## Sobre mim
-Sou estudante de Engenharia de Software com interesse em desenvolvimento web e boas práticas de engenharia. Gosto de aprender novas tecnologias, resolver problemas com lógica e construir projetos que possam ser úteis para pessoas reais.
+Sou estudante de Engenharia de Software apaixonado por tecnologia e desenvolvimento de software.  
+Tenho interesse em desenvolvimento web, programação e boas práticas de engenharia, buscando sempre aprimorar minhas habilidades técnicas através de estudos e projetos práticos.
 
-Atualmente estudando:
-- JavaScript (ES6+)
-- Fundamentos de lógica e algoritmos
-- Git & GitHub (controle de versão e fluxo de trabalho)
+Atualmente foco em construir uma base sólida em programação, versionamento e desenvolvimento de aplicações.
 
 ---
 
-## Habilidades
-- Linguagens: JavaScript, (adicione outras que souber: TypeScript, Java, Python...)
-- Front-end: HTML, CSS, (frameworks: React, Vue — adicione se aplicar)
-- Ferramentas: Git, GitHub, VS Code
-- Soft skills: trabalho em equipe, comunicação, vontade de aprender
+## Tecnologias e Ferramentas
+### Linguagens
+- Java
+- Python
+- JavaScript
+- HTML5
+- CSS3
+
+### Ferramentas
+- Git
+- GitHub
+- VS Code
+
+### Estudando atualmente
+- Estrutura de Dados
+- Algoritmos
+- Desenvolvimento Web
+- Banco de Dados
+
+---
+
+## Soft Skills
+- Trabalho em equipe
+- Comunicação
+- Organização
+- Facilidade de aprendizado
+- Resolução de problemas
 
 ---
 
 ## Contato
-- LinkedIn: [Seu nome no LinkedIn](https://www.linkedin.com/in/seu-usuario) ← substitua pelo seu link
-- Email: seu-email@exemplo.com ← substitua pelo seu email
-- Portfolio / Site: https://seu-portfolio.example.com ← opcional
-
-Você também pode usar badges:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white)](Kauanmatos512368@gmial.com)
+📩 Email: Kauanmatos512368@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/SEU-LINK-AQUI
 
 ---
 
-## Estatísticas do GitHub
-<!-- Cards atualizados para o seu usuário -->
+## GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kakams21&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kakams21&layout=compact&theme=transparent)
 
 ---
 
-## Projetos em destaque
-- Projeto A — breve descrição. (adicione links para os repositórios)
-- Projeto B — breve descrição.
+## Objetivo
+Busco uma oportunidade de estágio em desenvolvimento para aplicar meus conhecimentos, aprender com profissionais experientes e crescer na área de tecnologia.
 
-Dica: destaque 2–4 projetos com link e uma linha descrevendo a tecnologia usada e o que o projeto resolve.
+
