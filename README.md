@@ -75,14 +75,6 @@ API REST desenvolvida com Spring Boot para autenticação de usuários com JSON 
 
 ---
 
-## 📊 Linguagens mais usadas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakams21&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas"/>
-</p>
-
----
-
 ## 🎯 Objetivo
 
 Busco uma oportunidade de estágio em desenvolvimento para aplicar meus conhecimentos, aprender com profissionais experientes e crescer na área de tecnologia.
