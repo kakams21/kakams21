@@ -75,13 +75,10 @@ API REST desenvolvida com Spring Boot para autenticação de usuários com JSON 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Linguagens mais usadas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kakams21&show_icons=true&theme=transparent" alt="GitHub stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakams21&layout=compact&theme=transparent" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakams21&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas"/>
 </p>
 
 ---
@@ -96,4 +93,3 @@ Busco uma oportunidade de estágio em desenvolvimento para aplicar meus conhecim
 
 📩 **Email:** Kauanmatos512368@gmail.com  
 💼 **LinkedIn:** [Kauan Matos](https://www.linkedin.com/in/kauan-matos-65b50728b/)
-
